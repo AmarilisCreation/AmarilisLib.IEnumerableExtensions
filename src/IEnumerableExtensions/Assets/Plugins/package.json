@@ -1,0 +1,19 @@
+{
+  "name": "com.amariliscreation.ienumerableextensions",
+  "version": "1.0.0",
+  "displayName": "AmarilisLib IEnumerableExtensions",
+  "description": "This repository is Library for IEnumerable<T> Extensions",
+  "unity": "2020.3",
+  "dependencies": { },
+  "keywords": [
+    "IEnumerable",
+    "List",
+    "Sort",
+    "AmarilisLib"
+  ],
+  "author": {
+    "name": "AmarilisCreation",
+    "email": "tfb00plzdj+AmarilisCreation@gmail.com"
+  },
+  "license": "MIT"
+}
